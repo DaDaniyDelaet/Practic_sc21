@@ -38,4 +38,3 @@ check your program and its source code for the following points:
    Required version of cppcheck: \
    **Mac** 2.8 \
    **Linux** 2.8
-   
