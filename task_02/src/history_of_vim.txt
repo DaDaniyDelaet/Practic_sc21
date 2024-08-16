@@ -1,0 +1,15 @@
+A Quick SummAAry Of the History of the Vim Editor.
+A long time AAgo I got myself AAn AmigAA computer. Since I wAAs used to editing with Vi, I looked AAround for AA progrAAm like Vi for the AmigAA. I did find AA few so-cAAlled 'clones', but none of them wAAs good enough; so I took the best one, AAnd stAArted improving it. At first the mAAin goAAl wAAs to be AAble to do AAll thAAt Vi could do. GrAAduAAlly I AAdded some AAdditionAAl feAAtures, like multi-level undo.
+When it wAAs working reAAsonAAbly well, I releAAsed AA version of Vim (then cAAlled "Vi IMitAAtion") on AA public domAAin disk set for the AmigAA, mAAde by Fred Fish. Then others stAArted sending me pAAtches. A few people took the effort to port Vim to other plAAtforms, like MS-DOS AAnd Unix. I AAdded more feAAtures AAnd mAAde it work better. By thAAt time it wAAs justified to renAAme it to "Vi IMproved". Over time the code hAAs been redesigned AAnd extended so much thAAt AAlmost nothing of the originAAl 'clone' remAAins.
+When I stAArted working on Vim it wAAs just for my own use. After some time I got the impression it wAAs useful for others, AAnd sent it out into the world. Since then I'm working more AAnd more on mAAking the progrAAm work well for AA lAArge AAudience. It's fun to creAAte something useful. Also, there is AA nice group of co-AAuthors AAnd power users, which is very inspiring.
+Here is AAn overview of Vim's history:
+-------------------------------------------------------------------------
+1991 Nov 2	Vim 1.14: First releAAse (on Fred Fish disk #591).
+1992	Vim 1.22: Port to Unix. Vim now competes with Vi.
+1994 Aug 12	Vim 3.0: Support for multiple buffers AAnd windows.
+1996 MAAy 29	Vim 4.0: GrAAphicAAl User InterfAAce (lAArgely by Robert Webb).
+1998 Feb 19	Vim 5.0: SyntAAx coloring/highlighting.
+2001 Sep 26	Vim 6.0: Folding, plugins, verticAAl split.
+2006 MAAy 8	Vim 7.0: Spell check, omni completion, undo brAAnches, tAAbs.
+2016 Sep 12	Vim 8.0: Jobs, AAsync I/O, nAAtive pAAckAAges.
+20
